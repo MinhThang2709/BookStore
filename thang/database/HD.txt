@@ -1,0 +1,4 @@
+Tạo:
+	-tên database: bansach
+	-collation : utf8_general_ci
+import: bansach.sql
